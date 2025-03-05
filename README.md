@@ -23,6 +23,7 @@ It also involved image processing with **OpenCV** to identify contours and optim
 ### 2. Ackermann Model Control of a Fiat 500
 
 This project simulates and controls the Ackermann steering model of a **Fiat 500**, focusing on steering geometry to replicate car-like turning behavior.
+![Zero_Image](LAB2/Fiat500.png)
 
 #### 2.1 Kinematics.py
 
