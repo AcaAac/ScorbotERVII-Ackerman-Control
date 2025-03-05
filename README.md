@@ -10,7 +10,9 @@ The **Scorbot ER VII** is a 6-DoF serial manipulator that communicates through A
 ![Zero_Image](LAB1/Scorbot_ER.jpg)
 
 It also involved image processing with **OpenCV** to identify contours and optimize the drawing path for images that cannot be drawn without lifting the pen. The manipulator had a pen attached to its tip to complete this task.
+
 <img src="LAB1/test_draw_1.png" width="400" height="300" />
+
 <img src="LAB1/test_draw_2.png" width="400" height="300" />
 
 - **Code**: Found in `LAB1/VF.py`.
@@ -23,7 +25,8 @@ It also involved image processing with **OpenCV** to identify contours and optim
 ### 2. Ackermann Model Control of a Fiat 500
 
 This project simulates and controls the Ackermann steering model of a **Fiat 500**, focusing on steering geometry to replicate car-like turning behavior.
-![Zero_Image](LAB2/Fiat500.png)
+
+![First_Image](LAB2/Fiat500.png)
 
 #### 2.1 Kinematics.py
 
